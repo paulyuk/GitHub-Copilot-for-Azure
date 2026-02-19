@@ -13,6 +13,8 @@
 | Name | Role | Charter | Status |
 |------|------|---------|--------|
 | GitOps | Branch & Release Manager | `.ai-team/agents/gitops/charter.md` | ✅ Active |
+| Blogger | Technical Content Writer | `.ai-team/agents/blogger/charter.md` | ✅ Active |
+| Mermaid Designer | Architecture Visualizer | `.ai-team/agents/mermaid-designer/charter.md` | ✅ Active |
 | Scribe | Session Logger | `.ai-team/agents/scribe/charter.md` | 📋 Silent |
 | Ralph | Work Monitor | — | 🔄 Monitor |
 
